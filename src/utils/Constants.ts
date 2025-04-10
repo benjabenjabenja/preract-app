@@ -3,6 +3,8 @@ import preactLogo from '../assets/preact.svg';
 import reactLogo from '../assets/react.svg';
 import viteLogo from '../assets/vite.svg';
 
+export const BENJA_NAME = 'Benja';
+
 export const HREF_PREACT = 'https://preactjs.com';
 export const HREF_REACT = 'https://reactjs.org';
 export const HREF_VITE = 'https://vitejs.dev';
